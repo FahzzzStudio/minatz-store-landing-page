@@ -1,0 +1,943 @@
+html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #08005C;
+    background-repeat: no-repeat;
+    background-size: auto;
+    display: block;
+}
+
+.frame-1 {
+    background: #08005C;
+    display: flex;
+    padding: 64px 93.5px 0 73px;
+    width: 1920px;
+    box-sizing: border-box;
+  }
+  .frame-1 .home {
+    margin: 2px 0 21px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 22px;
+    color: #FFFFFF;
+  }
+  .frame-1 .pricelist {
+    margin: 2px 0 21px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 22px;
+    color: #FFFFFF;
+  }
+  .frame-1 .testimoni {
+    margin: 2px 0 21px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 22px;
+    color: #FFFFFF;
+  }
+  .frame-1 .contact {
+    margin: 2px 0 21px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 22px;
+    color: #FFFFFF;
+  }
+  .frame-1 .tempat-top-up-game-online-dan-beli-voucher-game-online-terbaru-dan-murah-pilihan-aman-dan-terpercaya {
+    position: absolute;
+    left: 189px;
+    top: 586px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .frame-1 .minatz-store {
+    position: absolute;
+    left: 189px;
+    top: 367px;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 96px;
+    color: #FFFFFF;
+  }
+  .frame-1 .image-2 {
+    opacity: 0.74;
+    box-shadow: 0px 4px 30px 0px #000000;
+    background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+    transform: rotate(-17deg);
+    position: absolute;
+    top: -15px;
+    right: 74px;
+    width: 1331px;
+    height: 2124px;
+  }
+  .frame-1 .container {
+    margin-right: 118px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1 .image-3 {
+    opacity: 0.65;
+    box-shadow: 0px 4px 30px 0px #000000;
+    background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+    transform: rotate(7deg);
+    position: absolute;
+    top: 244.5px;
+    right: -117.8px;
+    width: 611.3px;
+    height: 947.5px;
+  }
+  .frame-1 .image-4 {
+    box-shadow: 0px 4px 50px 0px #000000;
+    background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 160px;
+    right: 128px;
+    width: 822px;
+    height: 1004px;
+  }
+  .frame-1 .container-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 189px;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-2 {
+    margin-bottom: 279px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-3 {
+    margin-bottom: 21px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1 .rectangle-1 {
+    filter: blur(2px);
+    background: #FFFFFF;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 3304px;
+  }
+  .frame-1 .cari-game {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 14px;
+    color: #000000;
+  }
+  .frame-1 .image-5 {
+    background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 55px;
+    right: 670px;
+    width: 50px;
+    height: 48px;
+  }
+  .frame-1 .container-4 {
+    border-radius: 28px;
+    background: #08005C;
+    position: absolute;
+    left: 375px;
+    top: 1109px;
+    display: flex;
+    padding: 8px 1.7px 8px 0;
+    width: 171px;
+    box-sizing: border-box;
+  }
+  .frame-1 .image-6 {
+    border-radius: 25px;
+    background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 188px;
+    top: 1314px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-7 {
+    border-radius: 25px;
+    background: url('../assets/images/image_7.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 461px;
+    top: 1314px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-9 {
+    border-radius: 25px;
+    background: url('../assets/images/image_9.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 1314px;
+    right: 738px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-10 {
+    border-radius: 25px;
+    background: url('../assets/images/image_10.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 188px;
+    top: 1566px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .game {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .frame-1 .voucher {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .frame-1 .pulsa {
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 700;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .frame-1 .game-1 {
+    position: absolute;
+    left: 188px;
+    top: 1217px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 40px;
+    color: #08005C;
+  }
+  .frame-1 .rectangle-8 {
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: absolute;
+    left: 735px;
+    bottom: 1740px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .rectangle-9 {
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: absolute;
+    right: 738px;
+    bottom: 1740px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .tampilkan-lebih-banyak {
+    position: absolute;
+    left: 50%;
+    top: 1818px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'PT Serif';
+    font-weight: 700;
+    font-size: 20px;
+    color: #08005C;
+  }
+  .frame-1 .tampilkan-lebih-banyak-1 {
+    position: absolute;
+    left: 50%;
+    bottom: 2056px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'PT Serif';
+    font-weight: 700;
+    font-size: 20px;
+    color: #08005C;
+  }
+  .frame-1 .tampilkan-lebih-banyak-2 {
+    position: absolute;
+    left: 50%;
+    bottom: 1635px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'PT Serif';
+    font-weight: 700;
+    font-size: 20px;
+    color: #08005C;
+  }
+  .frame-1 .pilihan-metode-pembayaran {
+    position: absolute;
+    left: 50%;
+    bottom: 1483px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 48px;
+    color: #08005C;
+  }
+  .frame-1 .image-31 {
+    background: url('../assets/images/image_31.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 274px;
+    bottom: 1301px;
+    width: 204px;
+    height: 104px;
+  }
+  .frame-1 .image-32 {
+    background: url('../assets/images/image_32.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 854px;
+    bottom: 1301px;
+    width: 205px;
+    height: 104px;
+  }
+  .frame-1 .image-33 {
+    background: url('../assets/images/image_33.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 565px;
+    bottom: 1301px;
+    width: 204px;
+    height: 104px;
+  }
+  .frame-1 .image-34 {
+    background: url('../assets/images/image_34.png') 50% / cover no-repeat;
+    position: absolute;
+    right: 571px;
+    bottom: 1301px;
+    width: 204px;
+    height: 104px;
+  }
+  .frame-1 .image-35 {
+    background: url('../assets/images/image_35.png') 50% / cover no-repeat;
+    position: absolute;
+    right: 280px;
+    bottom: 1301px;
+    width: 204px;
+    height: 104px;
+  }
+  .frame-1 .testimoni-pembeli {
+    position: absolute;
+    left: 50%;
+    bottom: 1150px;
+    translate: -50% 0;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 48px;
+    color: #08005C;
+  }
+  .frame-1 .image-11 {
+    border-radius: 25px;
+    background: url('../assets/images/image_11.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 1314px;
+    right: 463px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-12 {
+    border-radius: 25px;
+    background: url('../assets/images/image_12.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 1314px;
+    right: 188px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-13 {
+    border-radius: 25px;
+    background: url('../assets/images/image_13.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 461px;
+    top: 1566px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-14 {
+    border-radius: 25px;
+    background: url('../assets/images/image_14.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 734px;
+    top: 1566px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .voucher-1 {
+    position: absolute;
+    left: 188px;
+    top: 1889px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 40px;
+    color: #08005C;
+  }
+  .frame-1 .image-16 {
+    border-radius: 25px;
+    background: url('../assets/images/image_16.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 734px;
+    top: 1314px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-17 {
+    border-radius: 25px;
+    background: url('../assets/images/image_17.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 1566px;
+    right: 188px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-18 {
+    border-radius: 25px;
+    background: url('../assets/images/image_18.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 1566px;
+    right: 463px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-19 {
+    border-radius: 25px;
+    background: url('../assets/images/image_19.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 1566px;
+    right: 738px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-20 {
+    border-radius: 25px;
+    background: url('../assets/images/image_20.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 188px;
+    top: 1986px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-21 {
+    border-radius: 25px;
+    background: url('../assets/images/image_21.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 461px;
+    top: 1986px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-22 {
+    border-radius: 25px;
+    background: url('../assets/images/image_22.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 734px;
+    top: 1986px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-23 {
+    border-radius: 25px;
+    background: url('../assets/images/image_23.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 1986px;
+    right: 738px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-24 {
+    border-radius: 25px;
+    background: url('../assets/images/image_24.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 1986px;
+    right: 463px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-25 {
+    border-radius: 25px;
+    background: url('../assets/images/image_25.png') 50% / cover no-repeat;
+    position: absolute;
+    top: 1986px;
+    right: 188px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .pulsa-1 {
+    position: absolute;
+    left: 188px;
+    bottom: 1950px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 40px;
+    color: #08005C;
+  }
+  .frame-1 .image-26 {
+    background: url('../assets/images/image_26.png') 50% / cover no-repeat;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-27 {
+    background: url('../assets/images/image_27.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 188px;
+    bottom: 1738px;
+    width: 175px;
+    height: 175px;
+  }
+  .frame-1 .image-28 {
+    background: url('../assets/images/image_28.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 734px;
+    bottom: 1740px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .image-29 {
+    background: url('../assets/images/image_29.png') 50% / cover no-repeat;
+    position: absolute;
+    right: 738px;
+    bottom: 1740px;
+    width: 175px;
+    height: 175px;
+  }
+  .frame-1 .image-30 {
+    background: url('../assets/images/image_30.png') 50% / cover no-repeat;
+    width: 143px;
+    height: 143px;
+  }
+  .frame-1 .rectangle-6 {
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: absolute;
+    left: 188px;
+    bottom: 1740px;
+    width: 173px;
+    height: 173px;
+  }
+  .frame-1 .fahzzz-62 {
+    background: url('../assets/images/fahzzz_62.png') 50% / cover no-repeat;
+    margin-bottom: 37px;
+    align-self: flex-start;
+    width: 339px;
+    height: 74px;
+  }
+  .frame-1 .hubungi-kami {
+    margin: 0 0.5px 25px 13px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+  }
+  .frame-1 .informasi {
+    margin-bottom: 25px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+  }
+  .frame-1 .ikuti-kami {
+    margin: 0 0.7px 30px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 36px;
+    color: #FFFFFF;
+  }
+  .frame-1 .image-40 {
+    background: url('../assets/images/image_40.png') 50% / cover no-repeat;
+    width: 36px;
+    height: 36px;
+  }
+  .frame-1 .syarat-dan-ketentuan {
+    margin: 0 13.6px 13px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+  }
+  .frame-1 .kebijakan-privasi {
+    margin-bottom: 13px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+  }
+  .frame-1 .promo {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+  }
+  .frame-1 .blog {
+    margin-bottom: 12px;
+    display: inline-block;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+  }
+  .frame-1 .affiliate {
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+  }
+  .frame-1 .nikmati-pengalaman-pembelian-voucher-top-up-game-otomatis-kapan-pun-di-manapun-kamu-mau-minatz-store-menyediakan-berbagai-metode-pembayaran-yang-lengkap-yang-pasti-akan-mempermudah-anda-untuk-bertransaksi-kenyamanan-pelanggan-minatz-store-adalah-prioritas-kami-silahkan-hubungi-kami-jika-anda-memiliki-pertanyaan-atau-keluhan-mengenai-layanan-kami {
+    margin-left: 47px;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 20px;
+    color: #FFFFFF;
+  }
+  .frame-1 .image-36 {
+    background: url('../assets/images/image_36.png') 50% / cover no-repeat;
+    width: 36px;
+    height: 36px;
+  }
+  .frame-1 .image-38 {
+    background: url('../assets/images/image_38.png') 50% / cover no-repeat;
+    width: 36px;
+    height: 36px;
+  }
+  .frame-1 .container-5 {
+    border-radius: 28px;
+    background: #08005C;
+    position: absolute;
+    left: 577px;
+    top: 1109px;
+    display: flex;
+    padding: 8px 0 8px 0.4px;
+    width: 132px;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-6 {
+    border-radius: 40px;
+    border-right: 15px solid #939393;
+    border-bottom: 15px solid #939393;
+    background: #08005C;
+    position: absolute;
+    right: 343px;
+    bottom: 664px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 30px 0 29px;
+    height: 389px;
+    box-sizing: border-box;
+  }
+  .frame-1 .portofolio-41 {
+    background: url('../assets/images/portofolio_42.png');
+    margin-right: 16px;
+    width: 44px;
+    height: 40px;
+  }
+  .frame-1 .chat-whatsapp {
+    margin: 8px 0 9px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+  }
+  .frame-1 .minatzstoregmail-com {
+    margin: 1px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFFFF;
+  }
+  .frame-1 .line-1 {
+    background: #FFFFFF;
+    margin: 0 0 29px 13px;
+    width: 265px;
+    height: 1px;
+  }
+  .frame-1 .layanan-pengaduan-konsumen {
+    margin: 0 22.6px 14px 13px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFCFC;
+  }
+  .frame-1 .direktorat-jenderal-perlindungan-konsumen-dan-tertib-niaga-kementerian-perdagangan-ri {
+    margin: 0 13px;
+    align-self: flex-start;
+    overflow-wrap: break-word;
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 15px;
+    color: #FFFCFC;
+  }
+  .frame-1 .free-firemau-ragu-tapi-web-ini-ud-di-liput-media-2-besar-auto-borong-dan-langganan-ini-mah {
+    position: relative;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .free-firemau-ragu-tapi-web-ini-ud-di-liput-media-2-besar-auto-borong-dan-langganan-ini-mah {
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 1.333;
+  }
+  .frame-1 .portofolio-51 {
+    background: url('../assets/images/portofolio_54.png') 50% / cover no-repeat;
+    position: absolute;
+    left: 24px;
+    right: 35px;
+    bottom: 72px;
+    height: 121px;
+  }
+  .frame-1 .pubg-mobile-topup-bner-2-instant-sih-ini-ga-pake-lama-mntap-min {
+    margin: 0 1px 30px 0;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .pubg-mobile-topup-bner-2-instant-sih-ini-ga-pake-lama-mntap-min {
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 1.333;
+  }
+  .frame-1 .portofolio-52 {
+    background: url('../assets/images/portofolio_54.png') 50% / cover no-repeat;
+    width: 353px;
+    height: 121px;
+  }
+  .clash-of-clanstop-up-nya-super-cepat-mantap-min {
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 1.333;
+  }
+  .frame-1 .clash-of-clanstop-up-nya-super-cepat-mantap-min {
+    margin: 0 0 30px 1px;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .frame-1 .portofolio-53 {
+    background: url('../assets/images/portofolio_54.png') 50% / cover no-repeat;
+    width: 353px;
+    height: 121px;
+  }
+  .frame-1 .free-fireamanah-sih-web-ini {
+    margin: 0 1px 48px 0;
+    text-align: center;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 24px;
+    color: #FFFFFF;
+  }
+  .free-fireamanah-sih-web-ini {
+    font-family: 'Inter';
+    font-weight: 900;
+    font-size: 15px;
+    line-height: 1.333;
+  }
+  .frame-1 .portofolio-54 {
+    background: url('../assets/images/portofolio_54.png') 50% / cover no-repeat;
+    width: 353px;
+    height: 121px;
+  }
+  .frame-1 .portofolio-42 {
+    margin-right: 13px;
+    width: 34px;
+    height: 25px;
+  }
+  .frame-1 .container-7 {
+    border-radius: 40px;
+    border-right: 15px solid #939393;
+    border-bottom: 15px solid #939393;
+    background: #08005C;
+    position: absolute;
+    left: 634px;
+    bottom: 664px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 33px 0 26px;
+    height: 389px;
+    box-sizing: border-box;
+  }
+  .frame-1 .fahzzz-61 {
+    background: url('../assets/images/fahzzz_62.png') 50% / cover no-repeat;
+    width: 230px;
+    height: 50px;
+  }
+  .frame-1 .container-8 {
+    border-radius: 40px;
+    border-right: 15px solid #939393;
+    border-bottom: 15px solid #939393;
+    background: #08005C;
+    position: absolute;
+    right: -188px;
+    bottom: 664px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0 38px 0 21px;
+    width: 412px;
+    height: 389px;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-9 {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1753.5px;
+    height: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-10 {
+    margin: 0 13px 29px 13px;
+    display: flex;
+    flex-direction: row;
+    align-self: flex-start;
+    width: fit-content;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-11 {
+    background: #08005C;
+    position: absolute;
+    left: -3px;
+    bottom: 0px;
+    display: flex;
+    flex-direction: row;
+    padding: 43px 109px 61px 99px;
+    width: 1923px;
+    height: 503px;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-12 {
+    border-radius: 53px;
+    background: #D9D9D9;
+    position: absolute;
+    top: 60px;
+    right: 665px;
+    padding: 11px 33px 10px 33px;
+    width: 496px;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-13 {
+    margin: 0 123.5px 155px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-14 {
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: absolute;
+    right: 463px;
+    bottom: 1740px;
+    display: flex;
+    padding: 2px 15px 0 15px;
+    width: 173px;
+    height: 173px;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-15 {
+    border-radius: 40px;
+    border-right: 15px solid #939393;
+    border-bottom: 15px solid #939393;
+    background: #08005C;
+    position: absolute;
+    left: 96px;
+    bottom: 664px;
+    display: flex;
+    padding-right: 12px;
+    width: 412px;
+    height: 389px;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-16 {
+    margin: 12px 128px 36px 0;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-17 {
+    border-radius: 25px;
+    background: #FFFFFF;
+    position: absolute;
+    left: 461px;
+    bottom: 1740px;
+    display: flex;
+    width: 173px;
+    height: 173px;
+    box-sizing: border-box;
+  }
+  .frame-1 .container-18 {
+    border-radius: 28px;
+    background: #08005C;
+    position: absolute;
+    left: 188px;
+    top: 1109px;
+    display: flex;
+    padding: 8px 5.6px 8px 0;
+    width: 156px;
+    box-sizing: border-box;
+  }
